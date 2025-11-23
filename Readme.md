@@ -2,7 +2,9 @@
 
 A modern, voice-enabled Hotel Property Management System (PMS) built with the MERN Stack and Google Gemini AI. This application features a clean, professional UI, real-time analytics, and an intelligent voice assistant capable of handling bookings, cancellations, and inventory management via natural language.
 
-![Aura PMS Dashboard](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Aura+PMS+Dashboard)
+Frontend - https://github.com/AashishG01/AURA-HMS-frontend
+
+Backend - https://github.com/AashishG01/AURA-HMS-backend
 
 ## 🧠 Technical Architecture & Core AI Logic
 
