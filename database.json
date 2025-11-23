@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex Chen",
+      "email": "alex@example.com",
+      "balance": 450.5,
+      "memberTier": "Gold"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-1001",
+      "userId": 1,
+      "status": "Shipped",
+      "items": [
+        "Old Item"
+      ],
+      "eta": "2 days"
+    },
+    {
+      "id": "ORD-2969",
+      "userId": 1,
+      "status": "Processing",
+      "items": [
+        "Neural Interface"
+      ],
+      "eta": "3 days"
+    },
+    {
+      "id": "ORD-9866",
+      "userId": 1,
+      "status": "Processing",
+      "items": [
+        "Quantum Processor"
+      ],
+      "eta": "3 days"
+    },
+    {
+      "id": "ORD-2363",
+      "userId": 1,
+      "status": "Processing",
+      "items": [
+        "Wireless Mouse"
+      ],
+      "eta": "3 days"
+    },
+    {
+      "id": "ORD-8992",
+      "userId": 1,
+      "status": "Processing",
+      "items": [
+        "Mechanical Keyboard"
+      ],
+      "eta": "3 days"
+    }
+  ],
+  "products": [
+    {
+      "id": "P-01",
+      "name": "Quantum Processor",
+      "price": 299.99,
+      "stock": 9
+    },
+    {
+      "id": "P-02",
+      "name": "Neural Interface",
+      "price": 599.99,
+      "stock": 4
+    },
+    {
+      "id": "P-03",
+      "name": "Holographic Display",
+      "price": 1200,
+      "stock": 0
+    },
+    {
+      "id": "P-04",
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "stock": 24
+    },
+    {
+      "id": "P-05",
+      "name": "Mechanical Keyboard",
+      "price": 79.99,
+      "stock": 14
+    },
+    {
+      "id": "P-06",
+      "name": "USB Type-C Cable",
+      "price": 9.99,
+      "stock": 40
+    },
+    {
+      "id": "P-07",
+      "name": "Laptop Stand",
+      "price": 24.99,
+      "stock": 18
+    },
+    {
+      "id": "P-08",
+      "name": "Bluetooth Speaker",
+      "price": 49.99,
+      "stock": 10
+    },
+    {
+      "id": "P-09",
+      "name": "Webcam HD",
+      "price": 39.99,
+      "stock": 7
+    },
+    {
+      "id": "P-10",
+      "name": "Portable SSD 500GB",
+      "price": 89.99,
+      "stock": 5
+    }
+  ]
+}
