@@ -1,7 +1,6 @@
 import mongoose from 'mongoose';
 import { Room, Booking } from './models.js';
 
-const MONGO_URI = "mongodb+srv://aashishg8160_db_user:1HW7qKFf4EXstAwe@cluster0.jb4brgk.mongodb.net/?appName=Cluster0";
 
 const seedData = async () => {
   await mongoose.connect(MONGO_URI);
